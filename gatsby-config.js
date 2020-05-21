@@ -9,9 +9,9 @@ require('dotenv').config({
 
 module.exports = {
   siteMetadata: {
-    title: 'Dindim',
-    description: 'Stripe storefront starter for Gatsby',
-    author: 'Lorenzo García Moreno <dev@lorenzogm.com>',
+    title: 'Vitality Glass',
+    description: 'Vitality glass shop',
+    author: 'Aaron Ponce <aaron@vitality.glass>',
   },
   plugins: [
     'gatsby-plugin-eslint',

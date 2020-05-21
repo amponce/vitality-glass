@@ -6,7 +6,7 @@ import Link from 'components/Link'
 const Logo = () => (
   <Link to="/">
     <Typography component="div" variant="h5">
-      Dindim
+      Vitality Glass
     </Typography>
   </Link>
 )
