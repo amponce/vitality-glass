@@ -33,7 +33,7 @@
     "babel-plugin-styled-components": "^1.10.7",
     "dotenv-webpack": "^1.7.0",
     "firebase": "^7.14.0",
-    "gatsby": "^2.20.8",
+    "gatsby": "^4.25.7",
     "gatsby-cli": "^2.12.29",
     "gatsby-image": "^2.3.1",
     "gatsby-plugin-firebase": "^0.2.0-beta.4",
